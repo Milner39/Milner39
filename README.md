@@ -1,3 +1,11 @@
-[![My GitFut card](https://gitfut.com/Milner39.png)](https://gitfut.com/Milner39)
+<div align="center">
+  <a href="https://gitfut.com/Milner39">
+    <img
+      src="https://gitfut.com/Milner39.png"
+      alt="My GitFut card"
+      height="360"
+    />
+  </a>
+</div>
 
-# Milner39
+<h1 align="center">Milner39</h1>
